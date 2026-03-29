@@ -40,15 +40,11 @@ To analyze global population trends over time and compare growth patterns across
 
 ## 📈 Visualizations
 
-1. **Global Population Trend (1950–2024)**
-   → Shows long-term growth of world population
+![Global Trend](global_trend.png)
 
-2. **Top 10 Most Populated Countries (2024)**
-   → Highlights population concentration across countries
+![Top Countries](top10_countries.png)
 
-3. **Population Growth Comparison (India vs China vs USA)**
-   → Compares growth trajectories over time
-
+![Comparison](comparison.png)
 ---
 
 ## 🎯 Conclusion
